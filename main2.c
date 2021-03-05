@@ -1,5 +1,7 @@
 #include <studio.h>
 
 int main(){
-		printf("%s","hola");
+                printf("%s","hola");
+
+
 }
